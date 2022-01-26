@@ -1,3 +1,3 @@
-# logo_netflix
+# Logo Netflix
 
-Projeto de estudo.
+Projeto de estudo feito em css e html.
